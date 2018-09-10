@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 
 namespace GhPython.Component
 {
-  [Guid("CEAB6E56-CEEC-A646-84D5-363C57440969")]
+  [Guid("CEAB6E56-CEEC-A646-84D5-363C5744096F")]//9
   public class PythonComponent_OBSOLETE : ScriptingAncestorComponent, IGH_VarParamComponent
   {
     protected override void AddDefaultInput(GH_Component.GH_InputParamManager inputManager)

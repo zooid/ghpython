@@ -583,9 +583,9 @@ namespace GhPython.Component
     {
       if (m_py == null) return null;
       var control = m_py.CreateTextEditorControl("", helpCallback);
-      return control;
+      return (Control) control;
     }
-
+    
     protected override Bitmap Icon
     {
       get { return Resources.python; }

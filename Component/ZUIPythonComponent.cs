@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 
 namespace GhPython.Component
 {
-  [Guid("410755B1-224A-4C1E-A407-BF32FB45EA7E")]
+  [Guid("410755B1-224A-4C1E-A407-BF32FB45EA7F")]//E
   public class ZuiPythonComponent : ScriptingAncestorComponent, IGH_VariableParameterComponent
   {
     protected override void AddDefaultInput(GH_InputParamManager pManager)
