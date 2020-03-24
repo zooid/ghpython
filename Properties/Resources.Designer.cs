@@ -92,7 +92,7 @@ namespace GhPython.Properties {
         ///a = line&lt;/pre&gt;
         ///
         ///&lt;p&gt;&lt;b&gt;How can I use RhinoCommon?&lt;/b&gt;&lt;/p&gt;
-        ///&lt;p&gt;By importing from the Rhino  [rest of string was truncated]&quot;;.
+        ///&lt;p&gt;By importing from [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string helpText {
             get {
@@ -131,7 +131,7 @@ namespace GhPython.Properties {
         ///    rest = 1 - pt1_part
         ///    return pt1 * rest + pt2 * pt1_part
         ///
-        ///def SubdivideAndRotate( [rest of string was truncated]&quot;;.
+        ///def [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string sampleCommon {
             get {
@@ -155,7 +155,7 @@ namespace GhPython.Properties {
         ///if x is None:
         ///    x = 24    # if nothing is connected to x, set x to something (24).
         ///if y is None:
-        ///    y = 0.3    # if nothing is connected to y, set y  [rest of string was truncated]&quot;;.
+        ///    y = 0.3    # if nothing is connect [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string sampleScript {
             get {
